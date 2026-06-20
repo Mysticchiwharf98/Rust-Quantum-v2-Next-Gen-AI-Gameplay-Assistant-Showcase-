@@ -1,4 +1,13 @@
+```mermaid
+graph LR
+    A[Launch Rust] --> B[Run Quantum Engine]
+    B --> C{Load Config}
+    C -->|Custom Matrix| D[Precision Vector Lock Enabled]
+    C -->|Default Matrix| E[Balanced Kinematics Mode]
+    D --> F[Active Spatial Analytics]
+    E --> F[Survival Combat]
 
+```
 > **Legal & Educational Disclaimer:** *This repository is maintained strictly for academic research, human-computer interaction analysis, and system accessibility purposes. It does not manipulate game memory, alter internal game files, or inject unauthorized code into any active game client. Users are responsible for complying with local platform End User License Agreements (EULA).*
 
 ---
