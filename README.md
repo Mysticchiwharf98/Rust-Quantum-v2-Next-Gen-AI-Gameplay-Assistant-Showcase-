@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/DOWNLOAD-LAUNCHER%20v2.0.0-brightgreen?style=flat-square">
-</p>
 
 > **Legal & Educational Disclaimer:** *This repository is maintained strictly for academic research, human-computer interaction analysis, and system accessibility purposes. It does not manipulate game memory, alter internal game files, or inject unauthorized code into any active game client. Users are responsible for complying with local platform End User License Agreements (EULA).*
 
