@@ -61,7 +61,12 @@ Weapon Bloom & Recoil Compensation Assistance: Provides static visual reference 
 
 ---
 
-**Rust-Quantum-v2-Next-Gen-AI-Assistant** is a cutting-edge, external training utility and visual guidance platform engineered for dynamic multiplayer survival environments. Utilizing local neural networks and real-time computer vision models, the system analyzes desktop pixel streams to enhance situational awareness, tactical reaction matrices, and crosshair alignment. By operating entirely from outside the target client environment and executing zero active process interactions, it provides mathematical aiming and recoil compensation support with absolute integrity.
+## Non-Invasive Safety & Zero-Ban Architecture
+
+* **`[ZERO PROCESS INTERACTION]`** — The software relies exclusively on Windows Desktop API pixel capture. It does not open game handles, read runtime memory lines, or hook execution engine functions.
+* **`[ANTI-HEURISTIC PASSIVE]`** — Completely bypasses client-side telemetry systems. Because no code is injected into the application environment, the software cannot be detected by traditional system signature scanners.
+* **`[LOCAL HARDWARE COMPILATION]`** — The neural network trains, loads, and operates strictly on your local GPU (CUDA/DirectX), keeping your usage data private and completely decentralized.
+* **`[OPTIMIZED YOLO FRAMEWORK]`** — Employs custom micro-architectures that deliver lightning-fast inference times (<2ms) without reducing your active in-game frame rate (FPS).
 
 ---
 
@@ -75,26 +80,13 @@ Weapon Bloom & Recoil Compensation Assistance: Provides static visual reference 
 
 ---
 
-## Neural Network & Vision Capabilities
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/8010fb05-8e49-46cd-8c01-19ac96007c0a" />
 
-| Category | System Modules | Technology Overview |
-| :--- | :--- | :--- |
-| **Vision Guidance** | Real-Time Object Detection | Advanced convolutional models scan screen matrices to automatically detect opponent model vectors (head, chest) in milliseconds amidst dense foliage and environmental clutter. |
-| **Reflex Matrix** | Intelligent Micro-Reaction | High-frequency analysis engine calculates structural target movement tracking and triggers automatic coordinate micro-adjustments with humanized click variance. |
-| **Humanized Filters** | Dynamic Vector Smoothing | Advanced Bezier curve mathematics apply realistic inertia and weight to cursor movements, perfectly mirroring the organic muscle memory of elite players. |
-| **Sensory UI** | Stream-Proof FOV Overlay | Lightweight vector bounding box visualization and field-of-view ($R_{fov}$) zoning, allowing you to track exactly where the AI neural engine is focused. |
-<img width="2554" height="1440" alt="1" src="https://github.com/user-attachments/assets/64064e9a-1bfd-4c0f-9952-7436b010334e" />
 
 ---
 
-## Non-Invasive Safety & Zero-Ban Architecture
 
-* **`[ZERO PROCESS INTERACTION]`** — The software relies exclusively on Windows Desktop API pixel capture. It does not open game handles, read runtime memory lines, or hook execution engine functions.
-* **`[ANTI-HEURISTIC PASSIVE]`** — Completely bypasses client-side telemetry systems. Because no code is injected into the application environment, the software cannot be detected by traditional system signature scanners.
-* **`[LOCAL HARDWARE COMPILATION]`** — The neural network trains, loads, and operates strictly on your local GPU (CUDA/DirectX), keeping your usage data private and completely decentralized.
-* **`[OPTIMIZED YOLO FRAMEWORK]`** — Employs custom micro-architectures that deliver lightning-fast inference times (<2ms) without reducing your active in-game frame rate (FPS).
 
----
 
 ## Tactical Application Profiles
 
